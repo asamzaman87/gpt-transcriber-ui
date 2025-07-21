@@ -83,7 +83,7 @@ const DownloadUI = () => {
                 color="text.secondary"
                 textAlign={"left"}
               >
-                {`Looking for a revolutionary way to convert speech to text? GPT Transcriber combines the power of ChatGPT's advanced transcription features** with user-friendly tools for an unparalleled speech-to-text experience. Whether you're speaking, recording audio, or dictating your thoughts, GPT Transcriber accurately captures your words and converts them into text—completely free of charge! With added features like audio file uploads, live transcription, dark/light mode, pdf or text downloads, and a full-screen UI, it’s never been easier to turn your speech into text effortlessly.`}
+                {`Looking for a revolutionary way to convert speech to text? GPT Transcriber combines the power of ChatGPT's advanced transcription features with user-friendly tools for an unparalleled speech-to-text experience. Whether you're speaking, recording audio, or dictating your thoughts, GPT Transcriber accurately captures your words and converts them into text—completely free of charge! With added features like audio file uploads, live transcription, dark/light mode, pdf or text downloads, and a full-screen UI, it’s never been easier to turn your speech into text effortlessly.`}
               </Typography>
 
               <Box
