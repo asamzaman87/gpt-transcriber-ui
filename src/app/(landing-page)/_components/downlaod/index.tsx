@@ -18,8 +18,8 @@ import Image from "next/image";
 import { ToggleColorMode } from "../toggle-color-mode";
 
 const EXT_URL = {
-  chrome: "https://chromewebstore.google.com/detail/gpt-transcriber-free-ai-s/hhflcahgkkljdjnohbeiknhkjhbkjkbk",
-  firefox: "https://addons.mozilla.org/en-US/firefox/addon/gpt-transcriber-free-ai/",
+  chrome: "https://chromewebstore.google.com/detail/gpt-reader-a-free-chatgpt/aeggkceabpfajnglgaeadofdmeboimml",
+  firefox: "https://addons.mozilla.org/en-US/firefox/addon/gpt-reader/",
   edge: "https://microsoftedge.microsoft.com/addons/detail/oalnicbngdjhapmbjnoampbhioncjleo",
 }
 const DownloadUI = () => {
